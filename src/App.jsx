@@ -1,9 +1,8 @@
 import { useMemo, useState, useEffect } from "react";
 import { Routes, Route, Link } from "react-router-dom";
-
 import VehicleDetails from "./pages/VehicleDetails";
 import Login from "./pages/Login";
-import SellVehicle from "./pages/sellvehicle";
+import SellVehicle from "./pages/SellVehicle";
 import ContactSeller from "./pages/contactseller";
 
 
